@@ -28,6 +28,7 @@ A sample action could be "coding with full concentration," indicating that the p
 - Transition to the "empty code" state with any action has a reward of -1.0, indicating time wasted.
 
 ## Graphical Representation:
+![image](https://github.com/ragav-47/mdp-representation/assets/75235488/48423e91-0e12-4823-85c1-f6eef67a2858)
 
 # Python Representation
 ```python
